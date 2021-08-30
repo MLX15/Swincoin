@@ -16,5 +16,3 @@ A simple, localhost-based Proof-of-Work blockchain and cryptocurrency written in
 * Sinatra
 * Faraday
 * Colorize
-
-Watch the demonstration on YouTube: https://youtu.be/UtL7f6W-tLI
